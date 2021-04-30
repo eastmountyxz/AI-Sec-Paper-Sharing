@@ -10,6 +10,7 @@
 - [[论文阅读] (02) SP2019-Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://blog.csdn.net/Eastmount/article/details/107283275)
 - [[论文阅读] (03) 清华张超老师 - GreyOne: Discover Vulnerabilities with Data Flow Sensitive Fuzzing](https://blog.csdn.net/Eastmount/article/details/107825286)
 - [[论文阅读] (04) 人工智能真的安全吗？浙大团队外滩大会分享AI对抗样本技术](https://blog.csdn.net/Eastmount/article/details/108890639)
+- [[论文阅读] (05) NLP知识总结及NLP论文撰写之道——Pvop老师](https://blog.csdn.net/Eastmount/article/details/109825633)
 
 ---
 
