@@ -12,6 +12,8 @@
 - [[论文阅读] (04) 人工智能真的安全吗？浙大团队外滩大会分享AI对抗样本技术](https://blog.csdn.net/Eastmount/article/details/108890639)
 - [[论文阅读] (05) NLP知识总结及NLP论文撰写之道——Pvop老师](https://blog.csdn.net/Eastmount/article/details/109825633)
 - [[论文阅读] (06) 万字详解什么是生成对抗网络GAN？经典论文及案例普及](https://blog.csdn.net/Eastmount/article/details/115346166)
+- [[论文阅读] (07) RAID2020 Cyber Threat Intelligence Modeling Based on Heterogeneous GCN](https://blog.csdn.net/Eastmount/article/details/115346215)
+
 
 ---
 
