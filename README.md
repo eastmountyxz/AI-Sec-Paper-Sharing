@@ -13,7 +13,9 @@
 - [[论文阅读] (05) NLP知识总结及NLP论文撰写之道——Pvop老师](https://blog.csdn.net/Eastmount/article/details/109825633)
 - [[论文阅读] (06) 万字详解什么是生成对抗网络GAN？经典论文及案例普及](https://blog.csdn.net/Eastmount/article/details/115346166)
 - [[论文阅读] (07) RAID2020 Cyber Threat Intelligence Modeling Based on Heterogeneous GCN](https://blog.csdn.net/Eastmount/article/details/115346215)
-
+- [[论文阅读] (08) NDSS2020 UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats](https://blog.csdn.net/Eastmount/article/details/118913235)
+- [[论文阅读] (09)S&P2019 HOLMES Real-time APT Detection through Correlation of Suspicious Information Flow](https://blog.csdn.net/Eastmount/article/details/118943095)
+- [[论文阅读] (10)基于溯源图的APT攻击检测安全顶会总结](https://blog.csdn.net/Eastmount/article/details/120555733)
 
 ---
 
