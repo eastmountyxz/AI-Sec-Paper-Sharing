@@ -33,6 +33,7 @@ APT溯源图顶会总结PPT下载地址：
 - [[论文阅读] (23)恶意代码作者溯源(去匿名化)经典论文阅读：二进制和源代码对比](https://blog.csdn.net/Eastmount/article/details/126045518)
 - [[论文阅读] (24)向量表征：从Word2vec和Doc2vec到Deepwalk和Graph2vec，再到Asm2vec和Log2vec（上）](https://blog.csdn.net/Eastmount/article/details/126904389)
 - [论文阅读] (25)向量表征经典之DeepWalk：从Word2vec到DeepWalk，再到Asm2vec和Log2vec（二）
+- [[论文阅读] (27) AAAI20 Order Matters: 基于图神经网络的二进制代码相似性检测（腾讯科恩实验室）](https://blog.csdn.net/Eastmount/article/details/129845509)
 
 
 ---
