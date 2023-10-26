@@ -35,7 +35,10 @@ APT溯源图顶会总结PPT下载地址：
 - [[论文阅读] (25)向量表征经典之DeepWalk：从Word2vec到DeepWalk，再到Asm2vec和Log2vec（二）](https://blog.csdn.net/Eastmount/article/details/126932342)
 - [[论文阅读] (26) 基于Excel可视化分析的论文实验图表绘制总结——以电影市场为例](https://blog.csdn.net/Eastmount/article/details/128727849)
 - [[论文阅读] (27) AAAI20 Order Matters: 基于图神经网络的二进制代码相似性检测（腾讯科恩实验室）](https://blog.csdn.net/Eastmount/article/details/129845509)
-
+- [[论文阅读] (28)李沐老师视频学习——1.研究的艺术·跟读者建立联系](https://blog.csdn.net/Eastmount/article/details/130095204)
+- [[论文阅读] (29)李沐老师视频学习——2.研究的艺术·明白问题的重要性](https://blog.csdn.net/Eastmount/article/details/130200279)
+- [[论文阅读] (30)李沐老师视频学习——3.研究的艺术·讲好故事和论点](https://blog.csdn.net/Eastmount/article/details/130516485)
+- [[论文阅读] (31)李沐老师视频学习——4.研究的艺术·理由、论据和担保](https://blog.csdn.net/Eastmount/article/details/131035645)
 
 ---
 
