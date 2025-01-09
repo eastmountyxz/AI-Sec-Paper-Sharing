@@ -39,6 +39,7 @@ APT溯源图顶会总结PPT下载地址：
 - [[论文阅读] (29)李沐老师视频学习——2.研究的艺术·明白问题的重要性](https://blog.csdn.net/Eastmount/article/details/130200279)
 - [[论文阅读] (30)李沐老师视频学习——3.研究的艺术·讲好故事和论点](https://blog.csdn.net/Eastmount/article/details/130516485)
 - [[论文阅读] (31)李沐老师视频学习——4.研究的艺术·理由、论据和担保](https://blog.csdn.net/Eastmount/article/details/131035645)
+- [论文阅读] (34)EWAS2024 基于SGDC的轻量级入侵检测系统
 
 ---
 
